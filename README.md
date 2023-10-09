@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 📫 How to reach me **sojibhp.180640@s.pust.ac.bd**
+- 📫 Reach me Here **sojibhp.180640@s.pust.ac.bd**
 
 - ⚡ Fun fact **I know some general knowledge.**
 
