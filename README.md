@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Md. Abu Yousuf</h1>
-<h3 align="center">A passionate Information and Communication Engineering student from Bangladesh</h3>
+<!-- <h3 align="center">A passionate Information and Communication Engineering student from Bangladesh</h3> -->
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuicepust&label=Profile%20views&color=0e75b6&style=flat" alt="abuicepust" /> </p>
@@ -8,7 +8,7 @@
 
 - 📫 Reach me Here **sojibhp.180640@s.pust.ac.bd**
 
-- ⚡ Fun fact **I know some general knowledge.**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
