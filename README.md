@@ -1,14 +1,12 @@
 <h1 align="center">Hello There, I'm Md. Abu Yousuf</h1>
 <!-- <h3 align="center">A passionate Information and Communication Engineering student from Bangladesh</h3> -->
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="350" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://ibb.co/3WxkXH6)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuicepust&label=Profile%20views&color=0e75b6&style=flat" alt="abuicepust" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 Reach me Here **sojibhp.180640@s.pust.ac.bd**
 
-- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
