@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate Information and Communication Engineering student from Bangladesh</h3> -->
 <!-- <img align="right" alt="Coding" width="350" src="[[https://ibb.co/3WxkXH6](https://ibb.co/3WxkXH6)](https://app.gemoo.com/share/image-annotation/577945530116714496?codeId=P5G8yAkw6ZJwo&origin=imageurlgenerator)"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuicepust&label=Profile%20views&color=0e75b6&style=flat" alt="abuicepust" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuicepust&label=Profile%20views&color=0e75b6&style=flat" alt="abuicepust" /> </p> -->
 
 
 - 📫 Reach me Here **sojibhp.180640@s.pust.ac.bd**
